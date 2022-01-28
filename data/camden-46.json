@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "G",
+  "title": "Math simplification in TreasuryManager",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/46"
+}
