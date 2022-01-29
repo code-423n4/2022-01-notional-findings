@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "1",
+  "title": "Conversions between sNOTE and BPT when burning cause less sNOTE to be burned than expected",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/71"
+}
