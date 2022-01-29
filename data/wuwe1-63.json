@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "2",
+  "title": "Missing owner setting in TreasuryAction",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/63"
+}
