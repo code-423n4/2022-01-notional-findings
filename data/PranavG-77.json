@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "PranavG",
+  "address": "0xFcBA1fEad1fab64228ae26dd3049fd6685a00030",
+  "risk": "2",
+  "title": "TreasuryManager.approveToken ERC20 missing return value check",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/77"
+}
