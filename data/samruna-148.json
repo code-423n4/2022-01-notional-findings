@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "samruna",
+  "address": "0x9aDA3Ba6A2C82152564dF7A22238E286E10e0A6B",
+  "risk": "2",
+  "title": "zero check for cooldownperiod",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/148"
+}
