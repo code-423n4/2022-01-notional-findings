@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Can't call `initializer` modifier twice within a contract",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/140"
+}
