@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "TreasuryAction doesn't set the owner state variable but uses `onlyOwner()` modifier",
+  "issueId": 139,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/139"
+}
