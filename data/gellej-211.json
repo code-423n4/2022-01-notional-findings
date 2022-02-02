@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "gellej",
+  "address": "0xF9a50271150FAFF01c6a702E0BB79C2412eAcD25",
+  "risk": "0",
+  "title": "_burn function has non-standard interpretation (gas savings, clarity)",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/211"
+}
