@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "SolidityScan",
+  "address": "0xB5E576E33a7A06cB96F08B1ef2e712b9Cdb22D58",
+  "risk": "1",
+  "title": "Missing return value check in approve for approveToken function call",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/175"
+}
