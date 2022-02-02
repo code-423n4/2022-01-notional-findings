@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`makerPrice` assumes oracle price is always in 18 decimals",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/198"
+}
