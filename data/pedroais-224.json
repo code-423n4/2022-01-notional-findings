@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "TreasuryManager uses the eth balance for core functionalities but doesn't have any payable function",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/224"
+}
