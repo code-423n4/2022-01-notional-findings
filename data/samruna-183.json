@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "samruna",
+  "address": "0xf683FD3207e0882E6B27021620f873E79f6fe689",
+  "risk": "2",
+  "title": "Improper use of public",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/183"
+}
