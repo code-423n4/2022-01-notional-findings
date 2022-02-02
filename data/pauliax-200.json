@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "1",
+  "title": "latestAnswer doesn't check if the value is up to date",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/200"
+}
