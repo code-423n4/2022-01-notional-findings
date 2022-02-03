@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "A Malicious Treasury Manager Can Burn Treasury Tokens By Setting `makerFee` To The Amount The Maker Receives",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/230"
+}
