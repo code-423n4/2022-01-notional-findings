@@ -1,0 +1,9 @@
+{
+  "contest": 81,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`sNOTE` Holders Are Not Incetivized To Vote On Proposals To Call `extractTokensForCollateralShortfall`",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2022-01-notional-findings/issues/229"
+}
